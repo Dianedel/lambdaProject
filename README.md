@@ -1,2 +1,2 @@
-# projectLambda
+# lambdaProject
 
